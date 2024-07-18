@@ -1,6 +1,6 @@
 ## Hey there, I'm Liem 👋
 - 🧑‍💻 Building Software since 2018
-- 🧭 Extensively worked on JS, TS, React, Ionic, NodeJs, GraphQL, Java, SpringBoot or any tech related stuff.
+- 🧭 Extensively worked on React, NodeJs, GraphQL, Java, SpringBoot, Unity, Cocos or any tech related stuff.
 - 🌱 Interested in learning new technologies.
 <!--
 **ThanhLiemm/ThanhLiemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
